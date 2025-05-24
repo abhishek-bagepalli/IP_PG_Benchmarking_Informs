@@ -75,7 +75,7 @@ The framework leverages:
 
 ## Citation
 
-If you use this framework, please cite our INFORMS Analytics+ 2025 project or contact the team via Prediction Guard.
+If you use this framework, please cite our INFORMS Analytics+ 2025 project or contact abagepal@purdue.edu
 
 ## Acknowledgments
 
